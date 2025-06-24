@@ -1,21 +1,16 @@
 <h1 align="center">Hi 👋, I'm Iqra Jannat</h1>
-<h3 align="center">A passionate Data Scientist and ML Enthusiast from Pakistan</h3>
+<h3 align="center">An AI Engineer and Agentic AI Enthusiast from Pakistan</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iqrai1&label=Profile%20views&color=0e75b6&style=flat" alt="iqrai1" /> </p>
 
-- 🔭 I’m currently a bootcamp student at **atomcamp**
-
-- 🌱 I’m currently learning **EDA and ML**
-
-- 👯 I’m looking to collaborate with **Data Scientists**
-
-- 💬 Ask me about **Python, Visualizations,Machine learning Models**
-  
-- 📫 How to reach me **iqrajnnat88@gmail.com**
-
-- ⚡ I enjoy working with data
+- 🔭 I’m currently building **Agentic AI applications** using LangGraph  
+- 🌱 Exploring **multi-agent orchestration**, **retrieval-augmented generation**, and **LLMs like LLaMA3**  
+- 👯 Actively collaborating on **AI research and open-source agentic tools**  
+- 💬 Ask me about **LangGraph, Python, FastAPI, LangChain, or agent-based reasoning systems**  
+- 📫 Reach me at **iqrajannat88@gmail.com**  
+- ⚡ I’m passionate about building real-world AI products with dynamic workflows
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
